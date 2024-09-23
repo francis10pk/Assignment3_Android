@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" style="@style/AppSearchView">Assignment3</string>
+    <string name="hint" style="@style/hint">Search Something</string>
+</resources>
